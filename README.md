@@ -69,6 +69,6 @@ Forecast Feature: Show 5-day weather forecasts.
 Improved Styling: Enhance the app's UI/UX with more dynamic elements.
 
 Contact
-For questions or issues, please contact me at: justinenjama33@example.com
+For questions or issues, please contact me at: justinenjama33@gmail.com
 
 Feel free to adjust this README according to your project's specifics, like the API used or any additional features.
